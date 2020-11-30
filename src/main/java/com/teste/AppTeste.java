@@ -11,7 +11,7 @@ public class AppTeste {
 	public String olaMundo(String nome)
 	{
 		
-		return "Ola " + nome;
+		return "V2: Ola " + nome;
 	}
 
 }
